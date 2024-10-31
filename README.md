@@ -1,6 +1,6 @@
 # 2024_java_news
 
-
+https://www.alura.com.br/artigos/mudancas-java-versao8?srsltid=AfmBOopKX8Q9GVq-Tjugcd5PYtcBuUfZMpHkmQQn7PIRuh8HaK5g51vj
 
 Java 8 - 2014
 O Java 8 trouxe um marco significativo na evolução da linguagem Java, introduzindo expressões lambda e a Streams API, que revolucionaram a forma como lidamos com coleções de dados e processamento paralelo.
